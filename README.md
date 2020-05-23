@@ -1,0 +1,1 @@
+# GEOJSON kabupaten/kota seluruh indonesia
